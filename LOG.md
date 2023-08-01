@@ -35,6 +35,11 @@
 - push
 
 # Log 
+- [0.11] add: Hello cube
+    - 01-Aug-2023
+        - add: display hello cube 
+        - add: hello cube vanilla js
+
 - [0.10] add: Project template
     - 29-Jul-2023 add: Project template
 
